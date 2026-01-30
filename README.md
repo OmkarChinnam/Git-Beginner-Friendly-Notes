@@ -168,7 +168,7 @@ Git works with three main areas:
 📷 **Diagram Reference:**
 
 ```
-git-working-staging-repo.png
+images/git-working-staging-repo.png
 ```
 
 This diagram visually explains how files move from the working directory to staging and finally into the repository.
@@ -238,7 +238,7 @@ git branch -d name        # Delete branch
 📷 **Diagram Reference:**
 
 ```
-git-branch-graph.png
+images/git-branch-graph.png
 ```
 
 This diagram shows how merge creates a merge commit, while rebase creates a clean linear history.
